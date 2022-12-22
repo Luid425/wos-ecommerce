@@ -1,5 +1,7 @@
 # WOS Ecomerce
 
+![My Image](public/wos-ecommerce.png)
+
 WOS ecommerce is a ecomerce website build with nextjs and Sanity.
 
 ## Getting Started
